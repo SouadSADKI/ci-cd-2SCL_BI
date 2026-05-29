@@ -1,4 +1,4 @@
 function showMessage() {
     document.getElementById("message").innerHTML =
-        "CI/CD with GitHub Actions works!";
+        "CI/CD with GitHub Actions works version 1!";
 }
